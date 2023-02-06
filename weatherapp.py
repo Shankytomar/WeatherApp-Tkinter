@@ -105,11 +105,11 @@ l3.place(x=430,y=400)
 l4= Label(root,text='PRESSURE',font=('Helvetica',15,'bold'),bg='#1ab5ef',fg='white')
 l4.place(x=650,y=400)
 
+#data labels
 t=Label(font=('arial',70,'bold'),fg='#ee666d')
 t.place(x=400,y=150)
 c=Label(font=('arial',15,'bold'))
 c.place(x=400,y=250)
-
 w=Label(text="...",font=('arial',20,'bold'),bg="#1ab5ef")
 w.place(x=127,y=430)
 h=Label(text="...",font=('arial',20,'bold'),bg="#1ab5ef")
