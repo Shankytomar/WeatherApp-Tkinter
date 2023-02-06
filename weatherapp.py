@@ -69,7 +69,7 @@ def getlocation():
     d.config(text=description)
     p.config(text=pressure)
 #search box
-Search_image = PhotoImage(file ='search.png')
+Search_image = PhotoImage(file ='resouces\search.png')
 myimage = Label(image=Search_image)
 myimage.place(x=20,y=10)
 
@@ -77,17 +77,17 @@ textfield = tk.Entry(root,justify = 'center', width=17,font=('poppins',25,'bold'
 textfield.place(x=50,y=25)
 textfield.focus()
 
-Search_icon = PhotoImage(file='search_icon.png')
+Search_icon = PhotoImage(file='\resouces\search_icon.png')
 myimage_icon = Button(image=Search_icon,command=getlocation,borderwidth=0,cursor='hand2',bg='#404040')
 myimage_icon.place(x=390,y=24)
 
 #logo
-Logo_image = PhotoImage(file='logo.png')
+Logo_image = PhotoImage(file='resouces/logo.png')
 logo = Label(image=Logo_image)
 logo.place(x=150,y=100)
 
 #Bottom box
-Frame_image = PhotoImage(file='box.png')
+Frame_image = PhotoImage(file='resouces/box.png')
 frame_myimage = Label(image=Frame_image)
 #frame_myimage.pack(padx=5,pady=5,side=BOTTOM)
 frame_myimage.place(x=50,y=380)
