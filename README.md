@@ -6,3 +6,6 @@ api link- https://openweathermap.org/api
 ## Api send a json data object which holds all weather related real-time information.
 ## This data rendered on screen through Tkinter Labels.
 
+Screenshots
+[!](https://github.com/Shankytomar/WeatherApp-Tkinter/tree/master/screenshots/weather.png)
+[!](https://github.com/Shankytomar/WeatherApp-Tkinter/tree/master/screenshots/json.png)
