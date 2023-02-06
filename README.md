@@ -7,5 +7,5 @@ api link- https://openweathermap.org/api
 ## This data rendered on screen through Tkinter Labels.
 
 Screenshots
-[!](https://github.com/Shankytomar/WeatherApp-Tkinter/tree/master/screenshots/weather.png)
-[!](https://github.com/Shankytomar/WeatherApp-Tkinter/tree/master/screenshots/json.png)
+![](https://github.com/Shankytomar/WeatherApp-Tkinter/tree/master/screenshots/weather.png)
+![](https://github.com/Shankytomar/WeatherApp-Tkinter/tree/master/screenshots/json.png)
